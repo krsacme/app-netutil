@@ -11,7 +11,7 @@ import (
 
 	"github.com/golang/glog"
 
-	"github.com/openshift/app-netutil/pkg/types"
+	"github.com/krsacme/app-netutil/pkg/types"
 )
 
 const (

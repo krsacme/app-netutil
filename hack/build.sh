@@ -1,6 +1,6 @@
 set -e
 
-ORG_PATH="github.com/openshift"
+ORG_PATH="github.com/krsacme"
 REPO_PATH="${ORG_PATH}/app-netutil"
 
 if [ ! -h gopath/src/${REPO_PATH} ]; then
